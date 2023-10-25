@@ -1,0 +1,9 @@
+﻿  c++test.cpp
+E:\MyWorkSpace\VSWorkSpace\Project1\c++test.cpp(9,15): error C2039: "okk": 不是 "Student" 的成员
+E:\MyWorkSpace\VSWorkSpace\Project1\Myclass.h(3): message : 参见“Student”的声明
+E:\MyWorkSpace\VSWorkSpace\Project1\c++test.cpp(23,4): error C2248: “Teacher::a”: 无法访问 private 成员(在“Teacher”类中声明)
+E:\MyWorkSpace\VSWorkSpace\Project1\Myclass.h(27): message : 参见“Teacher::a”的声明
+E:\MyWorkSpace\VSWorkSpace\Project1\Myclass.h(25): message : 参见“Teacher”的声明
+E:\MyWorkSpace\VSWorkSpace\Project1\c++test.cpp(24,20): error C2248: “Teacher::a”: 无法访问 private 成员(在“Teacher”类中声明)
+E:\MyWorkSpace\VSWorkSpace\Project1\Myclass.h(27): message : 参见“Teacher::a”的声明
+E:\MyWorkSpace\VSWorkSpace\Project1\Myclass.h(25): message : 参见“Teacher”的声明

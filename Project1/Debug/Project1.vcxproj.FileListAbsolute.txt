@@ -1,0 +1,2 @@
+E:\MyWorkSpace\VSWorkSpace\Project1\Debug\Project1.exe
+E:\MyWorkSpace\VSWorkSpace\Project1\Debug\Project1.pdb
